@@ -1,2 +1,2 @@
-Source code of our ICONIP 2022 paper "Relation-guided Dual Hash Network for
-Unsupervised Cross-Modal Retrieval".
+We have put key codes into the project and our method is done on the basis of DSAH method.
+Many thanks to the DSAH method for providing us with a good baseline.
